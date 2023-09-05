@@ -19,3 +19,14 @@ Find your source documents and copy them into the source_documents folder
 Run ingest.py to built the vectordb and embeddings
 
 now you can run ask.py to use CodeLlama offline to query your docs
+
+
+
+Notes:
+Models to try
+TheBloke/CodeLlama-7B-Instruct-GGUF/resolve/main/codellama-7b-instruct.Q2_K.gguf
+
+Use this tokenizer
+Trelis/Llama-2-7b-chat-hf-function-calling-GGML
+
+get a pgdump --schema-only and ingest... maybe train on it?
