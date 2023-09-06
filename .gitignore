@@ -1,0 +1,8 @@
+.env
+
+# Dont include the large models in the repo
+models/*
+!models/README.md
+
+source_documents/*
+db/*
