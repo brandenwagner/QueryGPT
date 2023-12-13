@@ -1,4 +1,4 @@
-langchain==0.0.281
+langchain==0.0.329
 chromadb==0.4.7
 llama-cpp-python==0.1.81
 urllib3==2.0.4
